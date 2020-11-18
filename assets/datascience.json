@@ -1,0 +1,88 @@
+[
+  {
+    "1": "Which of the following curve analysis is conducted on each predictor for classification?",
+    "2": "Which of the following function tracks the changes in model statistics?",
+    "3": "Which of the following model model include a backwards elimination feature selection routine?",
+    "4": "Which of the following model sums the importance over each boosting iteration?",
+    "5": "Which of the following argument is used to set importance values?",
+    "6": "Which of the following is performed by Data Scientist?",
+    "7": "Which of the following is the most important language for Data Science?",
+    "8": "Which of the following is one of the key data science skills?",
+    "9": "Which of the following is characteristic of Processed Data?",
+    "10": "Which of the following would be more appropriate?"
+  },
+  {
+    "1": {
+      "a": "NOC",
+      "b": "ROC",
+      "c": "COC",
+      "d": "All of the mentioned"
+    },
+    "2": {
+      "a": "varImp",
+      "b": "varImpTrack",
+      "c": "findTrack",
+      "d": "none of the mentioned"
+    },
+    "3": {
+      "a": "MCV",
+      "b": "MARS",
+      "c": "MCRS",
+      "d": "All of the mentioned"
+    },
+    "4": {
+      "a": "Boosted trees",
+      "b": "Bagged trees",
+      "c": "Partial least squares",
+      "d": "None of the mentioned"
+    },
+    "5": {
+      "a": "scale",
+      "b": "set",
+      "c": "value",
+      "d": "All of the mentioned"
+    },
+    "6": {
+      "a": "Define the question",
+      "b": "Create reproducible code",
+      "c": "Challenge results",
+      "d": "All of the mentioned"
+    },
+    "7": {
+      "a": "Java",
+      "b": "Ruby",
+      "c": "R",
+      "d": "None of the them"
+    },
+    "8": {
+      "a": "Statistics",
+      "b": "Machine Learning",
+      "c": "Data Visualization",
+      "d": "All of the mentioned"
+    },
+    "9": {
+      "a": "Data is not ready for analysis",
+      "b": "All steps should be noted",
+      "c": "Hard to use for data analysis",
+      "d": "None of the mentioned"
+    },
+    "10": {
+      "a": "Data Analysis",
+      "b": "Data Science",
+      "c": "Descriptive Analytics",
+      "d": "None of the mentioned"
+    }
+  },
+  {
+    "1": "ROC",
+    "2": "varImp",
+    "3": "MARS",
+    "4": "Boosted trees",
+    "5": "scale",
+    "6": "All of the mentioned",
+    "7": "R",
+    "8": "All of the mentioned",
+    "9": "All steps should be noted",
+    "10": "Data Science"
+  }
+]
