@@ -14,4 +14,8 @@ Features of App:
 10. I f user want’s to quit quiz any time then your app should allow the user and display all
 results.
 
+##IMAGE SAMPLE
+![75-751126_icon-clipart-png-download-data-science-logo-icon](https://user-images.githubusercontent.com/10377875/99494827-7f716000-2993-11eb-8379-94731b3b773a.png)
+
+
 
