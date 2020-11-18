@@ -1,16 +1,17 @@
 # quiz_flutter_app
 
 A new Flutter application.
+Features of App:
+1. 10 Questions must have in your App
+2. When Question completed then your app should display Total True and False
+3. When Questions Completed Your app Should Reset Automatically
+4. Splash Screen
+5. Undo option should be Available
+6. Question must be appeared randomly
+7. Complete quiz must have time limit
+8. Your app must have a unique ICON
+9. When Quiz Completed Your App should display All Wright Answers.
+10. I f user want’s to quit quiz any time then your app should allow the user and display all
+results.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
